@@ -57,7 +57,7 @@ body.about{
 .navbar ul li a{
     text-decoration: none;
     color: #fff;
-    padding: 4px;
+    padding: auto;
     transition: 3.5s;
 }
 
